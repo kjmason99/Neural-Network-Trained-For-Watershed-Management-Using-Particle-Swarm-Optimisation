@@ -3,7 +3,10 @@ Author: Karl Mason.
 
 This code trains a neural network using the particle swarm optimisation algorithm and is applied to the problem of watershed management. 
 
-In order to run the code, make sure that the watershed.java file is referencing the correct location on your PC in order to read in the watershed data. Also ensure that the mainTest.java file references the correct location to print your results to file.
+Before you can run the code:
+  1) Make sure that the watershed.java file is referencing the correct location on your PC in order to read in the watershed data.     
+     The watershed data is contained in a .zip folder named 'data'. You will need to unzip this folder.
+  2) Ensure that the mainTest.java file references the correct location in order to print your results to file.
 
 Please use the following bib files to cite the relevant papers describing this work: 
 
